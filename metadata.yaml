@@ -1,5 +1,8 @@
 _repo: Les-naufrages_61489
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61489-h/images/cover.jpg
 creator:
   author:
     agent_name: Haraucourt, Edmond
@@ -14,6 +17,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Edmond_Haraucourt
     - https://en.wikipedia.org/wiki/Edmond_Haraucourt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61489#Les-naufrages
 gutenberg_issued: '2020-02-23'
 gutenberg_type: Text
 identifiers:
