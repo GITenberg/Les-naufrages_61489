@@ -1,0 +1,28 @@
+_repo: Les-naufrages_61489
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haraucourt, Edmond
+    aliases:
+    - Chambley, Sire de
+    - De Chambley, Sire
+    birthdate: 1856
+    deathdate: 1941
+    gutenberg_agent_id: '47863'
+    url: http://www.gutenberg.org/2009/agents/47863
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Edmond_Haraucourt
+    - https://en.wikipedia.org/wiki/Edmond_Haraucourt
+description: ''
+gutenberg_issued: '2020-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61489'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Les naufragés
+url: http://www.gutenberg.org/ebooks/61489
